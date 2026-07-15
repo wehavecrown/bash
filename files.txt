@@ -1,0 +1,7 @@
+files.txt
+greetings.sh*
+output.txt
+read_from_file.sh
+README.md
+run_all.sh*
+your_name.sh*
